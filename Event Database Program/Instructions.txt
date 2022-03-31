@@ -1,0 +1,2 @@
+Choose Yes to load Database file than type events.txt 
+Download the Program3.exe and the events.txt file and put it in the same folder and run it.

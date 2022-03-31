@@ -1,0 +1,23 @@
+Wedding, 190803, 1400-2000, 6, 150, Summer
+Mr and Mrs Browns wedding.
+
+CarShow, 191012, 1200-1600, 4, 500, Fall
+Ford car show at Oceana Naval Base.
+
+Marathon, 190715, 0800-1300, 5, 700, Summer
+Beastmode Marathon on Pacific Ave.
+
+Concert, 190718, 1700-2100, 4, 2500, Summer
+Dave Matthews Band concert at amphitheater. 
+
+Festival, 191221, 1600-2000, 4, 5000, Winter
+End of summer seafood festival.
+
+Barcrawl, 190620, 1600-2000, 4, 120, Summer
+Summer Barcrawl.
+
+Barcrawl2, 190220, 1600-200, 4, 160, Winter
+Winter Barcrawl.
+
+GolfTournament, 190515, 0800-1400, 6, 90, Spring
+Spring Round Robin Golf Tournament.

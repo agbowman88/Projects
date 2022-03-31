@@ -1,0 +1,30 @@
+// Alexander Bowman
+// 08APR19
+// Battleship
+// Program generates a 10x10 gameboard with 5 ships of size
+// 5,4,3,3 and 2 in random locations. User attempts to sink each ship
+// by passing a row and column combination. User wins when all elements
+// associated with each ship on board is inputted. 
+
+// Function Pseudocode:
+
+    // Initial setup of board takes 10x10 array and fills each element with '~'
+    // Precondition: 2D array is declared of type char and passed.
+    // Postcondition: All 2D array elements filled with '~' character.
+void InitializeBoard(/*IN/OUT*/char BoardArray[][MAX_COLS])
+{
+    1. Outer For Loop: Loops through each BoardArray row.
+	2. Inner For Loop: Loops through each BoardArray column.
+	3. Inner Loop Body: Makes BoardArray element equal to '~'.
+	
+}
+    // Prints a 2D array to the screen.
+    // Precondition: 2D array is declared of type char and passed.
+    // Post: All 2D array elements displayed on screen.
+void DisplayBoard(/*IN*/char BoardArray[][MAX_COLS])
+{
+    1. Outer For Loop: Loops through each BoardArray row.
+	2. Newline after each row.
+	3. Inner For Loop: Loops through each BoardArray column.
+	4. Inner Loop Body: Outputs current BoardArray element to screen.
+}

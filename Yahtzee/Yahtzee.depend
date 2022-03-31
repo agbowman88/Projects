@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557781563 source:c:\users\alex\onedrive\college\csc 201\yahtzee\main.cpp
+	<iostream>
+	"head.h"
+	<cstdlib>
+	<time.h>
+	<iomanip>
+
+1557781563 c:\users\alex\onedrive\college\csc 201\yahtzee\head.h
+
